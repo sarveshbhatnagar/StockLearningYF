@@ -2,7 +2,7 @@ import yfinance as yf
 import pickle
 
 
-def get_data(ticker, period="3y"):
+def get_data(ticker, period="5y"):
     """
     Get data from Yahoo Finance.
     :param ticker:
